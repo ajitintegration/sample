@@ -1,2 +1,3 @@
 # sample
-publicRepo
+Sample code update!
+
